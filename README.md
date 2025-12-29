@@ -1,4 +1,4 @@
-#Insurance Claims Risk, Customer Profitability & Fraud Detection
+# Insurance Claims Risk, Customer Profitability & Fraud Detection
 ##📌 Project Overview
 This project demonstrates advanced SQL analytics within the insurance industry. It focuses on identifying high-value customers, assessing policy risk through loss ratio analysis, and detecting suspicious claim patterns. The project utilizes a robust database schema to bridge the gap between technical data management and actionable business intelligence.
 
